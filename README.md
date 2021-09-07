@@ -1,5 +1,6 @@
-## Hi there 👋
+## YOOO PEOPLE, this is the home of my codes(babys), Wellcome!!! 👋
 
+I'm a fullstack js programmer but I'm love with all kinds of tech, wish I had more than one life to learn everything that is out there... Anyway, hope that my works can help you somehow, that's the ultimate goal. 
 <!--
 **tonimercadante/tonimercadante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
