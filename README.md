@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <div style="display:flex;align-items:center;">
+ <div>
   <a href="https://github.com/tonimercadante">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonimercadante&layout=compact&langs_count=7&theme=dracula"/>
 </div>
