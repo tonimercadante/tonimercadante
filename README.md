@@ -1,6 +1,9 @@
 ## Hello friend, you made it here, Wellcome!!! 👋
 
 I'm a fullstack js programmer and I'm love with all kinds of tech, wish I had more than one life to learn everything that is out there... Anyway, hope that my work can help you somehow.
+
+🌱 I’m currently learning Machine Learnin.
+📫 How to reach me mercadanteneto@gmail.com
 <!--
 **tonimercadante/tonimercadante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
