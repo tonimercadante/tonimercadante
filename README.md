@@ -1,6 +1,6 @@
 ## Hello friend, you made it here, Wellcome!!! 👋
 
-I'm a fullstack js programmer and I'm love with all kinds of tech, wish I had more than one life to learn everything that is out there... Anyway, hope that my work can help you somehow.
+Fullstack js programmer, inlove with all kinds of tech, wish I had more than one life to learn everything that is out there... Anyway, hope that my work can help you somehow.
 
 🌱 I’m currently learning Machine Learning.<br />
 📫 How to reach me mercadanteneto@gmail.com
