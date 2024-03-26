@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <div>
-  <a href="https://github.com/tonimercadante">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonimercadante&layout=compact&langs_count=7&theme=dracula"/>
-</div>
  
  ## <div>You can contact me here, please do not hesitate, I will try my best to help you.</div>
  
