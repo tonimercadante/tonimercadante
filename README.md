@@ -1,4 +1,4 @@
-## ...
+
 
 Hacker(not just computers, but mostly...), possessor of infinity energy.
 
