@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 -->
 
  
- ## <div>You can contact me here, please do not hesitate, I will try my best to help you.</div>
- 
  <div>
   <a href="https://www.youtube.com/channel/UCzeSs6SzMZ0278vas7rOAzw/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/toni.mercadante/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
