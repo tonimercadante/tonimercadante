@@ -1,6 +1,5 @@
 
-
-Hacker(not just computers, but mostly...), possessor of infinity energy.
+Possessor of infinity energy.
 
 📫 How to reach me mercadanteneto@gmail.com
 <!--
